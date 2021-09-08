@@ -12,7 +12,6 @@
         <maven.compiler.source>14</maven.compiler.source>
         <maven.compiler.target>14</maven.compiler.target>
     </properties>
-
     <dependencies>
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
@@ -30,7 +29,6 @@
             <artifactId>webdrivermanager</artifactId>
             <version>5.0.1</version>
         </dependency>
-
     </dependencies>
 
 </project>
